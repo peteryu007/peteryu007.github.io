@@ -105,6 +105,7 @@ theme: fun
 deploy:
     type: git
     repo:
-        github: git@github.com:peteryu007/peteryu007.github.io.git,publish
+       ## github: git@github.com:peteryu007/peteryu007.github.io.git,publish
        ## gitee: git@gitee.com:peteryu007/peteryu007.git,master
+       https://gh_token@github.com/peteryu007/peteryu007.github.io.git
     
