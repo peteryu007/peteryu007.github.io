@@ -43,6 +43,7 @@ script:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - peteryu007@gamil.com
+    - peteryu7@gamil.com
+
   on_success: change
   on_failure: always
